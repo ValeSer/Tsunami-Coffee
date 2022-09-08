@@ -30,6 +30,8 @@ body {
 nav {
   background-color: OrangeRed;
   color: White;
+  padding-top: 0.75rem;
+  padding-bottom: 1.25rem;
 }
 
 ul {
